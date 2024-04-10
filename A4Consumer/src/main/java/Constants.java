@@ -1,0 +1,9 @@
+public class Constants {
+
+  public static final String awsKey = "ASIAY6BHZJRDZAMQGI7R";
+  public static final String awsSecretKey = "puReZX2pTBtBSUH0dK9Y4R0/7cxMH6z02wYlvgLu";
+  public static final String awsToken = "IQoJb3JpZ2luX2VjEP3//////////wEaCXVzLXdlc3QtMiJIMEYCIQCxfzxGsvb73pabqSzfKRK6HZz63z0/ARGdsPmncfZARwIhAMWnTI3+7s3zNn8X16Z4CxPGpimFt6GbdrfsTFbSega+KrQCCDYQABoMNjE0MjYzNzcwMTgzIgxBEO7KcMHBBc1Tt4UqkQLZHfX0x8qv3ZxAAkcrYaKd8az23XPpmuKivjPcajYBOQGzQW0assbLUDaht034UJLSFbPEycK3XOkAkeWVadxnjxDsKUAWP7SN7Za0VcwcaEg5IVEserwPSKWTtjvsqrBNJ/atMVAOSzbD+S2Diu67aBtOPa7/WbfLgUF9kmQGs483RFDAU0ApbEASqEqf6+r7w8WjPR/fA2JQY3+fMKAkpeHXVdmQE3et+R9vM0f6Gj22UPLtpIRfiv23LCLzBCQSPMVxIBcX82id6jYlu1meoWzzeKup7PdRBhS9nW5ITNWXGDY8JXwqh9wlcdd/S+mZmwkRbiw+XJzSMLq67Lr32ef3YOwCmzwFa6FWs2jGz1kw+ezbsAY6nAGRXAMBey8AvfD0E7M5bRgBV7w41XkY0ehiUgUilbij0tRJpvGEfw/OGNCBFGb2TW/VvLIvU+sqzC9LKA1A9GpvaIfvWAR5F6Tubylco+KFIQvW/husGmGlT2ExzODBVT6ZqoP7k7aut/PFzHDEi5hrQtlVdi2LL2fR2SAgWoak0OH1tvYaXi99JjBTl+8h/m64N3KjfMjcsjyPfWI=";
+  public static final String awsRegion = "us-west-2";
+  public static final String DDB_TABLE = "skier";
+
+}

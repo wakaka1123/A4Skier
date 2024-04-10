@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="A4Server_GetVertical:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/A4Server_GetVertical_war</output-path>
+    <root id="archive" name="A4Server_GetVertical_war.war">
+      <element id="artifact" artifact-name="A4Server_GetVertical:war exploded" />
+    </root>
+  </artifact>
+</component>
